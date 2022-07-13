@@ -1,4 +1,10 @@
 # Desafio
+
+
+
+TAREFA AINDA NAO COMPLETA
+
+
 ## Tarefa Principal
 Em uma cooperativa, cada associado possui um voto e as decisões são tomadas através de assembleias, por votação. A partir disso, você precisa criar o backend para gerenciar essas sessões de votação. A solução deve atender os seguintes requisitos através de uma API REST:
 
@@ -29,4 +35,4 @@ Em uma cooperativa, cada associado possui um voto e as decisões são tomadas at
   
   
   
-  INCOMPLETO
+ 
